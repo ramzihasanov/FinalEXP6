@@ -1,0 +1,15 @@
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\bin\Debug\net6.0\FinalExp.Data.deps.json
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\bin\Debug\net6.0\FinalExp.Data.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\bin\Debug\net6.0\FinalExp.Data.pdb
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\bin\Debug\net6.0\FinalExp.Core.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\bin\Debug\net6.0\FinalExp.Core.pdb
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.csproj.CopyComplete
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\refint\FinalExp.Data.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\FinalExp.Data.pdb
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Data\obj\Debug\net6.0\ref\FinalExp.Data.dll

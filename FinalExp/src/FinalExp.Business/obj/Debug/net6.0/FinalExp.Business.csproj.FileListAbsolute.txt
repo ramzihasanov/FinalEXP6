@@ -1,0 +1,17 @@
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\bin\Debug\net6.0\FinalExp.Business.deps.json
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\bin\Debug\net6.0\FinalExp.Business.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\bin\Debug\net6.0\FinalExp.Business.pdb
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\bin\Debug\net6.0\FinalExp.Core.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\bin\Debug\net6.0\FinalExp.Data.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\bin\Debug\net6.0\FinalExp.Data.pdb
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\bin\Debug\net6.0\FinalExp.Core.pdb
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.csproj.CopyComplete
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\refint\FinalExp.Business.dll
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\FinalExp.Business.pdb
+C:\Users\II Novbe\Desktop\FinalEXP6\FinalExp\src\FinalExp.Business\obj\Debug\net6.0\ref\FinalExp.Business.dll
